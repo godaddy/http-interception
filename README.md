@@ -75,8 +75,6 @@ Requests.
 
 For feature requests, and bugs please use GitHub issues.
 
-Otherwise, use the [GoDaddy OSS Slack](https://godaddy-oss-slack.herokuapp.com/).
-
 ## Testing
 
 Run the tests with:
