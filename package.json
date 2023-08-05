@@ -17,7 +17,7 @@
   "license": "MIT",
   "dependencies": {
     "minimist": "^1.2.0",
-    "puppeteer": "^1.20.0"
+    "puppeteer": "^3.0.0"
   },
   "devDependencies": {
     "@laboratoria/mdlint": "^1.1.0",
